@@ -1,6 +1,7 @@
 
-const API_URL = "http://127.0.0.1:8000";
+// const API_URL = "http://127.0.0.1:8000";
 
+const API_URL = "https://demo-bot-deyk.onrender.com/";
 const chatWindow = document.getElementById("chatWindow");
 const chatFab = document.getElementById("chatFab");
 const chatMessages = document.getElementById("chatMessages");
